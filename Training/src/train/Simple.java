@@ -1,12 +1,11 @@
-package com.train.com;
-
+package train;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+
 public class Simple {
-	
 	
 	public static WebDriver driver;
 
@@ -43,5 +42,7 @@ public class Simple {
 
 }
 }
+
+
 
 
